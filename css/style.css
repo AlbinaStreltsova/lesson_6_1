@@ -1,0 +1,139 @@
+@import "null.css";
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Book.woff2") format("woff2"), url("../fonts/CircularStd-Book.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Bold.woff2") format("woff2"), url("../fonts/CircularStd-Bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Medium.woff2") format("woff2"), url("../fonts/CircularStd-Medium.woff") format("woff");
+	font-weight: 500;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "CircularStd";
+	src: url("../fonts/CircularStd-Bold.woff2") format("woff2"), url("../fonts/CircularStd-Bold.woff") format("woff");
+	font-weight: 900;
+	font-display: swap;
+}
+
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+
+body {
+	font-family: "CircularStd", sans-serif;
+	font-size: 20px;
+}
+
+h1 {
+	font-family: "CircularStd", sans-serif;
+	font-weight: 500;
+	font-size: 65px;
+	line-height: 82px;
+	text-align: center;
+	margin-bottom: 20px;
+	color: #313131;
+}
+
+.text {
+	font-family: "CircularStd", sans-serif;
+	font-weight: 500;
+	font-size: 20px;
+	text-align: center;
+	line-height: 25px;
+	max-width: 750px;
+	margin: 0 auto 224px;
+	color: #5F5F5F;
+}
+
+h2 {
+	font-family: "CircularStd", sans-serif;
+	font-weight: bold;
+	font-size: 34px;
+	line-height: 44px;
+	opacity: 0.88;
+	padding-left: 207px;
+	margin-bottom: 20px;
+	color: #313131;
+}
+
+.next_text {
+	font-family: "CircularStd", sans-serif;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 28px;
+	padding-left: 207px;
+	margin-bottom: 125px;
+	max-width: 508px;
+	color: #5F5F5F;
+}
+
+.item{
+	font-family: "CircularStd", sans-serif;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 23px;
+	opacity: 0.88;
+	padding-left: 207px;
+	margin-bottom: 5px;
+	color: #313131;
+}
+
+.next_item {
+	font-family: "CircularStd", sans-serif;
+	font-weight: 500;
+	font-size: 18px;
+	line-height: 23px;
+	padding-left: 207px;
+	margin-bottom: 30px;
+	color: #B8B8B8;
+}
+
+img {
+	padding-left: 207px;
+	margin-bottom: 140px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
